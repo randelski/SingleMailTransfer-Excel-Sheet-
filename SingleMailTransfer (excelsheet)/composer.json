@@ -1,0 +1,11 @@
+{
+    "name": "hp/php-form",
+    "autoload": {
+        "psr-4": {
+            "Hp\\PhpForm\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
